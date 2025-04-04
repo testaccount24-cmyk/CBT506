@@ -1,0 +1,8 @@
+2025-04-04 10:51:42.491439 - Received CBT.V508.FILE506.PDS from FILE506.XMI 
+2025-04-04 10:51:42.492308 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE506.PDS, moved to PDS/$$$#DATE
+2025-04-04 10:51:42.492461 - Found $$INDEX.txt (text/plain) in CBT.V508.FILE506.PDS, moved to PDS/$$INDEX
+2025-04-04 10:51:42.492605 - Found $$NOTE.txt (text/plain) in CBT.V508.FILE506.PDS, moved to PDS/$$NOTE
+2025-04-04 10:51:42.492730 - Found @FILE506.txt (text/plain) in CBT.V508.FILE506.PDS, moved to PDS/@FILE506
+2025-04-04 10:51:42.492873 - Found ESOGTHLD.rexx (text/plain) in CBT.V508.FILE506.PDS, moved to PDS/ESOGTHLD
+2025-04-04 10:51:42.493001 - Found ESOREALC.rexx (text/plain) in CBT.V508.FILE506.PDS, moved to PDS/ESOREALC
+2025-04-04 10:51:42.493128 - Found GETPTF.rexx (text/plain) in CBT.V508.FILE506.PDS, moved to PDS/GETPTF
